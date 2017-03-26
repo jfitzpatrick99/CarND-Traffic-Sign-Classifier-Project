@@ -18,7 +18,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[web_image_1]: ./web-traffic-signs/sign_1.jpg = 128x "Web Traffic Sign 1"
+[web_image_1]: ./web-traffic-signs/sign_1.jpg "Web Traffic Sign 1"
 [web_image_2]: ./web-traffic-signs/sign_2.jpg = 128x "Web Traffic Sign 2"
 [web_image_3]: ./web-traffic-signs/sign_3.jpg = 128x "Web Traffic Sign 3"
 [web_image_4]: ./web-traffic-signs/sign_4.jpg = 128x "Web Traffic Sign 4"
