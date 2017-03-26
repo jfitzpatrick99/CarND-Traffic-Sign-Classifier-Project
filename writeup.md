@@ -1,12 +1,10 @@
-#**Traffic Sign Recognition** 
+# Traffic Sign Recognition
 
----
-
-** Build a Traffic Sign Recognition Project **
+## Build a Traffic Sign Recognition Project
 
 This is my writeup for building a traffic sign recognition project.
 
-The goals / steps of this project are the following:
+The goals / steps of this project were as follows:
 
 * Load the data set (see below for links to the project data set)
 * Explore, summarize and visualize the data set
@@ -14,7 +12,6 @@ The goals / steps of this project are the following:
 * Use the model to make predictions on new images
 * Analyze the softmax probabilities of the new images
 * Summarize the results with a written report
-
 
 [//]: # (Image References)
 
