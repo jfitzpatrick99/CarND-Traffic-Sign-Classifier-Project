@@ -40,17 +40,17 @@ The goals / steps of this project are the following:
 [training_set_image_9]: ./examples/training_image_9.jpg "Training Set Image 9"
 [training_set_image_10]: ./examples/training_image_10.jpg "Training Set Image 10"
 
-[image_before_grayscale]: ./examples/image_before_grayscale.jpg = "Image Before Grayscale"
-[image_after_grayscale]: ./examples/image_after_grayscale.jpg = "Image After Grayscale"
+[image_before_grayscale]: ./examples/image_before_grayscale.jpg "Image Before Grayscale"
+[image_after_grayscale]: ./examples/image_after_grayscale.jpg "Image After Grayscale"
 
-[image_before_random_shift]: ./examples/image_before_random_shift.jpg = "Image Before Random Shift"
-[image_after_random_shift]: ./examples/image_after_random_shift.jpg = "Image After Random Shift"
+[image_before_random_shift]: ./examples/image_before_random_shift.jpg "Image Before Random Shift"
+[image_after_random_shift]: ./examples/image_after_random_shift.jpg "Image After Random Shift"
 
-[image_before_random_resize]: ./examples/image_before_random_resize.jpg = "Image Before Random Resize"
-[image_after_random_resize]: ./examples/image_after_random_resize.jpg = "Image Before Random Resize"
+[image_before_random_resize]: ./examples/image_before_random_resize.jpg "Image Before Random Resize"
+[image_after_random_resize]: ./examples/image_after_random_resize.jpg "Image Before Random Resize"
 
-[image_before_random_rotate]: ./examples/image_before_random_rotate.jpg = "Image Before Random Rotate"
-[image_after_random_rotate]: ./examples/image_after_random_rotate.jpg = "Image Before Random Rotate"
+[image_before_random_rotate]: ./examples/image_before_random_rotate.jpg "Image Before Random Rotate"
+[image_after_random_rotate]: ./examples/image_after_random_rotate.jpg "Image Before Random Rotate"
 
 ## Rubric Points
 
